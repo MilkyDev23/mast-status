@@ -1,0 +1,129 @@
+2023-08-20 13:14:17,465:INFO:Started with python version 3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]
+2023-08-20 13:14:17,474:WARNING:PyNaCl is not installed, voice will NOT be supported
+2023-08-20 13:14:17,475:INFO:Starting status-update loop
+2023-08-20 13:14:17,475:INFO:Starting fivem status-update loop
+2023-08-20 13:14:17,793:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:14:17,794:INFO:logging in using static token
+2023-08-20 13:14:18,264:INFO:Shard ID None has sent the IDENTIFY payload.
+2023-08-20 13:14:18,463:INFO:Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-m8fw",{"micros":91222,"calls":["id_created",{"micros":1074,"calls":[]},"session_lookup_time",{"micros":282,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-292",{"micros":89266,"calls":["start_session",{"micros":77936,"calls":["discord-api-547cdd6fb-hlwvd",{"micros":74172,"calls":["get_user",{"micros":24795},"get_guilds",{"micros":10493},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":250,"calls":[]},"presence_started",{"micros":203,"calls":[]},"guilds_started",{"micros":103,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10731,"calls":[]},"connect_finished",{"micros":10737,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":16,"calls":[]}]}]}] (Session ID: 10738d9923195822a144b0e0b85f3c12).
+2023-08-20 13:14:20,481:INFO:Logged in as MilkysSidechick (1028396995775311922)
+2023-08-20 13:14:25,689:WARNING:skipped status update
+2023-08-20 13:14:34,475:INFO:reused status message from history
+2023-08-20 13:14:53,072:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:15:27,434:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:16:00,725:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:16:37,048:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:17:15,346:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:17:53,759:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:18:30,058:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:19:04,406:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:19:39,688:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:20:17,108:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:20:51,335:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:21:27,742:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:22:01,028:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:22:34,377:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:23:07,722:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
+2023-08-20 13:23:43,986:WARNING:failed to fetch down detector status
+Traceback (most recent call last):
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\bot.py", line 247, in update_fivem_status
+    self.down_detector_status = fivem.down_detector()
+  File "C:\Users\willg\Desktop\FiveM-Dashboard-Bot-1.98.3\fivem\__init__.py", line 25, in down_detector
+    raise Exception("parsing the status failed")
+Exception: parsing the status failed
